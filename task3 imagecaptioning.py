@@ -34,4 +34,4 @@ def predict_caption(image_paths):
 
     return preds
 
-predict_caption(['house.jpg'])
+predict_caption(['Task 3 house.jpg'])
